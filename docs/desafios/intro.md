@@ -3,9 +3,7 @@ id: intro
 title: Desafios
 sidebar_label: Introdução
 ---
-##  Desafios
 
-</a>
 <a class="link-block" href="https://www.acefrontend.com/" target="_blank">
   <i class="fas fa-link"></i> <span>Ace Front End</span>Desafios de programação Front-end. Resultados via texto. IDE integrada
 
